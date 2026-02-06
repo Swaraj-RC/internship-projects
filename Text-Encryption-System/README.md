@@ -14,20 +14,17 @@ It demonstrates the working concepts of:
 ## 📂 Project Structure
 
 Text_Encryption_System/
-│
-├── main.py
-├── aes_like.py
-├── des_like.py
-├── rsa_logic.py
-└── README.md
+- main.py
+- aes_like.py
+- des_like.py
+- rsa_logic.py
+- README.md
 
 ---
 
 ## ⚙️ Requirements
 
 - Python 3.x  
-
-(Optional for future cryptographic extensions)
 
 ```bash
 pip install pycryptodome
